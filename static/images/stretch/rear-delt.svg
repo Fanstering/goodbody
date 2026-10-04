@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <style>.bg{fill:#f5faf7}.line{stroke:#17211b;stroke-width:16;stroke-linecap:round;fill:none}.hint{stroke:#18a058;stroke-width:10;stroke-linecap:round;fill:none;stroke-dasharray:18 16;animation:dash 1.2s linear infinite}.text{font:700 34px "Microsoft YaHei",Arial;fill:#17211b}.sub{font:22px "Microsoft YaHei",Arial;fill:#68746e}@keyframes dash{to{stroke-dashoffset:-68}}</style>
+  <rect class="bg" width="720" height="420" rx="28"/>
+  <text x="40" y="62" class="text">肩后束拉伸</text>
+  <text x="40" y="96" class="sub">手肘贴近胸前，向内侧轻压</text>
+  <circle cx="360" cy="150" r="34" fill="#17211b"/>
+  <path class="line" d="M360 190v105"/>
+  <path class="line" d="M360 220c-42 12-78 42-112 84"/>
+  <path class="line" d="M250 298c55-6 98-23 135-54"/>
+  <path class="line" d="M360 295l-62 70M360 295l66 70"/>
+  <path class="hint" d="M244 310c58-3 112-27 154-70"/>
+</svg>

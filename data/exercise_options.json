@@ -1,0 +1,1305 @@
+{
+  "shoulder_stage_1": {
+    "title": "跪姿冲肩俯卧撑",
+    "stage": "肩部第一阶段",
+    "summary": "8~10次 × 6组，组间休息2分钟",
+    "image": "/static/images/img_1_61d6ce69eb2f.gif",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，绕环、肩胛收缩",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "跪姿冲肩俯卧撑",
+        "sets": "6组",
+        "reps": "8~10次",
+        "rest": "2分钟",
+        "guide": "身体呈倒V，头部落向双手之间，推起呼气，核心收紧。常见错误：耸肩、塌腰、手放过远。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "三角肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "手臂横过胸前，另一只手轻拉，感受肩外侧拉伸。",
+        "images": [
+          {
+            "src": "/static/images/img_2_99e3a782b916.webp",
+            "alt": "三角肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "三角肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "肩后束拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "手肘贴近胸前，向内侧轻压，放松肩后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_2_99e3a782b916.webp",
+            "alt": "肩后束拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "肩后束拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%82%A9%E5%90%8E%E6%9D%9F%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "胸部拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "前臂扶门框，身体缓慢向前，拉开胸部。",
+        "images": [
+          {
+            "src": "/static/images/img_3_91db9904b481.webp",
+            "alt": "胸部拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "胸部拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%83%B8%E9%83%A8%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "冲肩俯卧撑分解教学",
+        "url": "https://www.iesdouyin.com/share/video/7562509871511080202"
+      }
+    ]
+  },
+  "shoulder_stage_2": {
+    "title": "标准冲肩俯卧撑",
+    "stage": "肩部第二阶段",
+    "summary": "8~10次 × 6组，组间休息2分钟",
+    "image": "/static/images/img_1_61d6ce69eb2f.gif",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，绕环、肩胛收缩",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "标准冲肩俯卧撑",
+        "sets": "6组",
+        "reps": "8~10次",
+        "rest": "2分钟",
+        "guide": "身体稳定，垂直下放，避免耸肩。常见错误：下放太浅、身体晃动。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "三角肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "手臂横过胸前，另一只手轻拉，感受肩外侧拉伸。",
+        "images": [
+          {
+            "src": "/static/images/img_2_99e3a782b916.webp",
+            "alt": "三角肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "三角肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "肩后束拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "手肘贴近胸前，向内侧轻压，放松肩后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_2_99e3a782b916.webp",
+            "alt": "肩后束拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "肩后束拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%82%A9%E5%90%8E%E6%9D%9F%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "胸部拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "前臂扶门框，身体缓慢向前，拉开胸部。",
+        "images": [
+          {
+            "src": "/static/images/img_3_91db9904b481.webp",
+            "alt": "胸部拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "胸部拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%83%B8%E9%83%A8%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "冲肩俯卧撑正确做法",
+        "url": "https://www.iesdouyin.com/share/video/7631559408926263114"
+      }
+    ]
+  },
+  "shoulder_stage_3": {
+    "title": "折刀俯卧撑",
+    "stage": "肩部第三阶段",
+    "summary": "8~10次 × 6组，组间休息2分钟",
+    "image": "/static/images/img_1_61d6ce69eb2f.gif",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，绕环、肩胛收缩",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "折刀俯卧撑",
+        "sets": "6组",
+        "reps": "8~10次",
+        "rest": "2分钟",
+        "guide": "保持倒V，缓慢下放，控制节奏。常见错误：探头、塌腰。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "三角肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "手臂横过胸前，另一只手轻拉，感受肩外侧拉伸。",
+        "images": [
+          {
+            "src": "/static/images/img_2_99e3a782b916.webp",
+            "alt": "三角肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "三角肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "肩后束拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "手肘贴近胸前，向内侧轻压，放松肩后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_2_99e3a782b916.webp",
+            "alt": "肩后束拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "肩后束拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%82%A9%E5%90%8E%E6%9D%9F%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "胸部拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "前臂扶门框，身体缓慢向前，拉开胸部。",
+        "images": [
+          {
+            "src": "/static/images/img_3_91db9904b481.webp",
+            "alt": "胸部拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "胸部拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%83%B8%E9%83%A8%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "折刀俯卧撑B站教学",
+        "url": "https://www.bilibili.com/video/BV1deT9z5EvA/"
+      }
+    ]
+  },
+  "abs_stage_1": {
+    "title": "平板支撑",
+    "stage": "腹部第一阶段",
+    "summary": "60秒 × 8组，组间休息2分钟",
+    "image": "https://static1.keepcdn.com/picture/frame/1500881848788.jpg",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，猫牛式、躯干旋转",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "平板支撑",
+        "sets": "8组",
+        "reps": "60秒",
+        "rest": "2分钟",
+        "guide": "身体一条直线，收腹收臀，均匀呼吸。常见错误：塌腰、撅臀。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "眼镜蛇式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "俯卧撑起胸口，腹部前侧拉伸，腰部不强行挤压。",
+        "images": [
+          {
+            "src": "/static/images/img_4_b5389fc0fdf9.webp",
+            "alt": "眼镜蛇式示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "眼镜蛇式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%9C%BC%E9%95%9C%E8%9B%87%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "猫牛式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "脊柱拱起与下沉交替，动作缓慢配合呼吸。",
+        "images": [
+          {
+            "src": "/static/images/img_5_465044fdef2c.webp",
+            "alt": "猫牛式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "猫牛式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%8C%AB%E7%89%9B%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "Keep - 平板支撑",
+        "url": "https://calorietech.com/exercises/55cc42d9fdac76af7fc278a9"
+      }
+    ]
+  },
+  "abs_stage_2": {
+    "title": "西西里卷腹",
+    "stage": "腹部第二阶段",
+    "summary": "15次 × 5组，组间休息2分钟",
+    "image": "https://static1.keepcdn.com/picture/frame/1500864149429.jpg",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，猫牛式、躯干旋转",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "西西里卷腹",
+        "sets": "5组",
+        "reps": "15次",
+        "rest": "2分钟",
+        "guide": "腹部卷起，不过度拉脖子，缓慢下放。常见错误：借惯性。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "眼镜蛇式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "俯卧撑起胸口，腹部前侧拉伸，腰部不强行挤压。",
+        "images": [
+          {
+            "src": "/static/images/img_4_b5389fc0fdf9.webp",
+            "alt": "眼镜蛇式示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "眼镜蛇式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%9C%BC%E9%95%9C%E8%9B%87%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "猫牛式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "脊柱拱起与下沉交替，动作缓慢配合呼吸。",
+        "images": [
+          {
+            "src": "/static/images/img_5_465044fdef2c.webp",
+            "alt": "猫牛式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "猫牛式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%8C%AB%E7%89%9B%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "Keep - 西西里卷腹",
+        "url": "https://www.calorietech.com/exercises/55cc42cc805a7ec3831d38cd"
+      }
+    ]
+  },
+  "abs_stage_3": {
+    "title": "俯身开合跳",
+    "stage": "腹部第三阶段",
+    "summary": "12次 × 5组，组间休息2分钟",
+    "image": "https://static1.gotokeep.com/picture/frame/1501207496246.jpg",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，猫牛式、躯干旋转",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "俯身开合跳",
+        "sets": "5组",
+        "reps": "12次",
+        "rest": "2分钟",
+        "guide": "轻盈落地，保持核心，连续完成。常见错误：膝盖内扣。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "眼镜蛇式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "俯卧撑起胸口，腹部前侧拉伸，腰部不强行挤压。",
+        "images": [
+          {
+            "src": "/static/images/img_4_b5389fc0fdf9.webp",
+            "alt": "眼镜蛇式示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "眼镜蛇式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%9C%BC%E9%95%9C%E8%9B%87%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "猫牛式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "脊柱拱起与下沉交替，动作缓慢配合呼吸。",
+        "images": [
+          {
+            "src": "/static/images/img_5_465044fdef2c.webp",
+            "alt": "猫牛式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "猫牛式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%8C%AB%E7%89%9B%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "Keep - 俯卧开合跳",
+        "url": "https://www.calorietech.com/exercises/57c01c9016d3eacd43d793b8"
+      }
+    ]
+  },
+  "chest_stage_1": {
+    "title": "跪姿俯卧撑",
+    "stage": "胸部第一阶段",
+    "summary": "12次 × 8组，组间休息2分钟",
+    "image": "https://static1.keepcdn.com/cms_static/picture/1659606736142_1659606701027_JUU4JUI3JUFBJUU1_offset0.70963.jpg",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，扩胸、摆臂",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "跪姿俯卧撑",
+        "sets": "8组",
+        "reps": "12次",
+        "rest": "2分钟",
+        "guide": "身体保持直线，胸部接近地面，推起不锁肘。常见错误：塌腰。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "门框拉胸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "前臂扶门框，身体缓慢向前，拉开胸部。",
+        "images": [],
+        "video_links": [
+          {
+            "title": "门框拉胸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E9%97%A8%E6%A1%86%E6%8B%89%E8%83%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "Keep - 跪姿俯卧撑",
+        "url": "https://www.calorietech.com/exercises/62eb96d35361c100019d1c2a"
+      }
+    ]
+  },
+  "chest_stage_2": {
+    "title": "标准俯卧撑",
+    "stage": "胸部第二阶段",
+    "summary": "12次 × 8组，组间休息2分钟",
+    "image": "/static/images/img_6_63623e70ab13.gif",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，扩胸、摆臂",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "标准俯卧撑",
+        "sets": "8组",
+        "reps": "12次",
+        "rest": "2分钟",
+        "guide": "肘约45°，胸主动发力，全程控制。常见错误：肘外张90°。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "门框拉胸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "前臂扶门框，身体缓慢向前，拉开胸部。",
+        "images": [],
+        "video_links": [
+          {
+            "title": "门框拉胸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E9%97%A8%E6%A1%86%E6%8B%89%E8%83%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "Keep - 俯卧撑（标准）",
+        "url": "https://www.calorietech.com/exercises/55cc42d6fdac76af7fc278ab"
+      }
+    ]
+  },
+  "chest_stage_3": {
+    "title": "下斜俯卧撑",
+    "stage": "胸部第三阶段",
+    "summary": "10~12次 × 8组，组间休息2分钟",
+    "image": "/static/images/img_7_900435d3e7b7.gif",
+    "images": [
+      {
+        "src": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGE5dTBqdDZocXo0cDVtbDR4cW4yaWEzdWF1aHhxb3VseDZrbHl6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQmmcPHmFgHekp7ktU/200w.gif",
+        "alt": "下斜俯卧撑动态图"
+      }
+    ],
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，扩胸、摆臂",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "下斜俯卧撑",
+        "sets": "8组",
+        "reps": "10~12次",
+        "rest": "2分钟",
+        "guide": "双脚抬高，身体笔直，缓慢下放。常见错误：臀部下沉。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "门框拉胸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "前臂扶门框，身体缓慢向前，拉开胸部。",
+        "images": [],
+        "video_links": [
+          {
+            "title": "门框拉胸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E9%97%A8%E6%A1%86%E6%8B%89%E8%83%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "NASM - Decline Push-Up",
+        "url": "https://www.nasm.org/resource-center/exercise-library/decline-push-up"
+      },
+      {
+        "title": "Decline Push-Up 视频（B站搜索）",
+        "url": "https://search.bilibili.com/all?keyword=Decline%20Push-Up%20%E8%A7%86%E9%A2%91"
+      }
+    ]
+  },
+  "back_stage_1": {
+    "title": "门框划船",
+    "stage": "背部第一阶段",
+    "summary": "8~10次 × 6组，组间休息2分钟",
+    "image": "/static/images/img_8_638f36557a51.webp",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，猫牛式、胸椎旋转",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "门框划船",
+        "sets": "6组",
+        "reps": "8~10次",
+        "rest": "2分钟",
+        "guide": "夹肩胛，胸向前，身体保持直线。常见错误：耸肩、只拉手。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "婴儿式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "臀部坐向脚跟，双手向前延伸，放松背部。",
+        "images": [
+          {
+            "src": "/static/images/img_9_388191c7ca81.webp",
+            "alt": "婴儿式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "婴儿式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E5%A9%B4%E5%84%BF%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "猫牛式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "脊柱拱起与下沉交替，缓慢活动胸椎。",
+        "images": [
+          {
+            "src": "/static/images/img_5_465044fdef2c.webp",
+            "alt": "猫牛式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "猫牛式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%8C%AB%E7%89%9B%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "背阔肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "身体侧屈，手臂向远处延伸，感受侧背拉伸。",
+        "images": [
+          {
+            "src": "/static/images/img_10_5d416a2225d7.webp",
+            "alt": "背阔肌拉伸动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "背阔肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%83%8C%E9%98%94%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "Lift Manual - Bodyweight Row in Doorway",
+        "url": "https://liftmanual.com/bodyweight-row-in-doorway/"
+      }
+    ]
+  },
+  "back_stage_2": {
+    "title": "毛巾划船",
+    "stage": "背部第二阶段",
+    "summary": "8~12次 × 6组，组间休息2分钟",
+    "image": "/static/images/img_11_2c3eb95d9a36.gif",
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，猫牛式、胸椎旋转",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "毛巾划船",
+        "sets": "6组",
+        "reps": "8~12次",
+        "rest": "2分钟",
+        "guide": "双肘贴身，顶峰停1秒，慢放。常见错误：身体借力。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "婴儿式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "臀部坐向脚跟，双手向前延伸，放松背部。",
+        "images": [
+          {
+            "src": "/static/images/img_9_388191c7ca81.webp",
+            "alt": "婴儿式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "婴儿式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E5%A9%B4%E5%84%BF%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "猫牛式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "脊柱拱起与下沉交替，缓慢活动胸椎。",
+        "images": [
+          {
+            "src": "/static/images/img_5_465044fdef2c.webp",
+            "alt": "猫牛式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "猫牛式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%8C%AB%E7%89%9B%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "背阔肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "身体侧屈，手臂向远处延伸，感受侧背拉伸。",
+        "images": [
+          {
+            "src": "/static/images/img_10_5d416a2225d7.webp",
+            "alt": "背阔肌拉伸动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "背阔肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%83%8C%E9%98%94%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "SELF - Inverted Row 居家替代",
+        "url": "https://www.self.com/story/how-to-do-inverted-row"
+      }
+    ]
+  },
+  "back_stage_3": {
+    "title": "反向划船/引体向上",
+    "stage": "背部第三阶段",
+    "summary": "接近力竭 × 6组，组间休息2分钟",
+    "image": "/static/images/img_12_c3e1adddc7d5.gif",
+    "images": [
+      {
+        "src": "https://media.self.com/photos/67c629fba977b62604db6d19/master/w_1600%2Cc_limit/Landyn-inverted-row-legs-straight%2520%281%29%2520%281%29.gif",
+        "alt": "反向划船动态图"
+      },
+      {
+        "src": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTllOXB3b3EyODRrMmkyMzk5eG04Y3dtMWhsMXowNmJzZWo2dDRoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2ALcpIRjQFi21eezSI/100.gif",
+        "alt": "引体向上动态图"
+      }
+    ],
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，猫牛式、胸椎旋转",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "反向划船/引体向上",
+        "sets": "6组",
+        "reps": "接近力竭",
+        "rest": "2分钟",
+        "guide": "先沉肩，胸靠近横杆，缓慢下降。常见错误：摆腿、耸肩。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "婴儿式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "臀部坐向脚跟，双手向前延伸，放松背部。",
+        "images": [
+          {
+            "src": "/static/images/img_9_388191c7ca81.webp",
+            "alt": "婴儿式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "婴儿式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E5%A9%B4%E5%84%BF%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "猫牛式",
+        "sets": "1轮",
+        "reps": "20~30秒",
+        "rest": "按需",
+        "guide": "脊柱拱起与下沉交替，缓慢活动胸椎。",
+        "images": [
+          {
+            "src": "/static/images/img_5_465044fdef2c.webp",
+            "alt": "猫牛式动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "猫牛式视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E7%8C%AB%E7%89%9B%E5%BC%8F%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "背阔肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "身体侧屈，手臂向远处延伸，感受侧背拉伸。",
+        "images": [
+          {
+            "src": "/static/images/img_10_5d416a2225d7.webp",
+            "alt": "背阔肌拉伸动图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "背阔肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%83%8C%E9%98%94%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "SELF - Inverted Row",
+        "url": "https://www.self.com/story/how-to-do-inverted-row"
+      },
+      {
+        "title": "Martin Koban - 引体向上参考",
+        "url": "https://martinkoban.com/de/knieschmerzen-fitness-uebungen/"
+      }
+    ]
+  },
+  "legs_stage_1": {
+    "title": "徒手深蹲 + 提踵",
+    "stage": "腿部第一阶段",
+    "summary": "徒手深蹲15次 × 6组；提踵20次 × 5组，组间休息2分钟",
+    "image": "/static/images/img_13_f0edb65e9b99.gif",
+    "images": [
+      {
+        "src": "https://media.self.com/photos/5c8686e2b43cf177fa569d97/master/w_1600%2Cc_limit/bodyweight-squat-Amanda_001.gif",
+        "alt": "徒手深蹲动态图"
+      },
+      {
+        "src": "https://media.self.com/photos/5fca6fd153fffe77875a2d17/master/w_1024%2Cc_limit/Erica_Calf-raises%2520%281%29.gif",
+        "alt": "提踵动态图"
+      }
+    ],
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，深蹲热身、髋踝绕环",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "徒手深蹲",
+        "sets": "6组",
+        "reps": "15次",
+        "rest": "2分钟",
+        "guide": "臀向后坐，脚跟发力，膝盖朝脚尖。常见错误：驼背、膝内扣。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "提踵",
+        "sets": "5组",
+        "reps": "20次",
+        "rest": "2分钟",
+        "guide": "踮到最高，顶峰停1秒，缓慢下降。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "股四头肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "站姿屈膝，脚跟拉向臀部，保持膝盖朝下。",
+        "images": [
+          {
+            "src": "/static/images/img_14_65a0b99ad56c.webp",
+            "alt": "股四头肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "股四头肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%82%A1%E5%9B%9B%E5%A4%B4%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "臀部拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "仰卧四字拉伸，膝盖拉向胸前，放松臀部。",
+        "images": [
+          {
+            "src": "/static/images/img_15_91aaa64141d2.webp",
+            "alt": "臀部拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "臀部拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%87%80%E9%83%A8%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "小腿拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "后脚跟踩地，身体向墙面靠近，拉伸小腿后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_16_0f1a1d4e7649.webp",
+            "alt": "小腿拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "小腿拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E8%85%BF%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "腘绳肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "坐姿前屈，背部尽量保持延展，拉伸大腿后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_17_aeb1687d9f3e.webp",
+            "alt": "腘绳肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "腘绳肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%85%98%E7%BB%B3%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "SELF - Squat",
+        "url": "https://www.self.com/story/8-strength-exercises"
+      },
+      {
+        "title": "Health - Leg Exercises: Squat",
+        "url": "https://www.health.com/leg-exercises-11727862"
+      }
+    ]
+  },
+  "legs_stage_2": {
+    "title": "保加利亚分腿蹲 + 提踵",
+    "stage": "腿部第二阶段",
+    "summary": "保加利亚分腿蹲每侧10次 × 6组；提踵20次 × 5组，组间休息2分钟",
+    "image": "/static/images/img_18_f385a773e070.gif",
+    "images": [
+      {
+        "src": "https://media.self.com/photos/5b58b2afc8678833138b0c56/master/w_1600%2Cc_limit/135_cc.gif",
+        "alt": "保加利亚分腿蹲动态图"
+      },
+      {
+        "src": "https://media.self.com/photos/5fca6fd153fffe77875a2d17/master/w_1024%2Cc_limit/Erica_Calf-raises%2520%281%29.gif",
+        "alt": "提踵动态图"
+      }
+    ],
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，深蹲热身、髋踝绕环",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "保加利亚分腿蹲",
+        "sets": "6组",
+        "reps": "每侧10次",
+        "rest": "2分钟",
+        "guide": "身体直立，前脚发力，保持平衡。常见错误：左右晃动。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "提踵",
+        "sets": "5组",
+        "reps": "20次",
+        "rest": "2分钟",
+        "guide": "踮到最高，顶峰停1秒，缓慢下降。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "股四头肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "站姿屈膝，脚跟拉向臀部，保持膝盖朝下。",
+        "images": [
+          {
+            "src": "/static/images/img_14_65a0b99ad56c.webp",
+            "alt": "股四头肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "股四头肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%82%A1%E5%9B%9B%E5%A4%B4%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "臀部拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "仰卧四字拉伸，膝盖拉向胸前，放松臀部。",
+        "images": [
+          {
+            "src": "/static/images/img_15_91aaa64141d2.webp",
+            "alt": "臀部拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "臀部拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%87%80%E9%83%A8%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "小腿拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "后脚跟踩地，身体向墙面靠近，拉伸小腿后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_16_0f1a1d4e7649.webp",
+            "alt": "小腿拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "小腿拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E8%85%BF%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "腘绳肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "坐姿前屈，背部尽量保持延展，拉伸大腿后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_17_aeb1687d9f3e.webp",
+            "alt": "腘绳肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "腘绳肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%85%98%E7%BB%B3%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "SELF - Bulgarian Split Squat",
+        "url": "https://www.self.com/story/how-to-do-bulgarian-split-squats"
+      },
+      {
+        "title": "Health - Bulgarian Split Squat",
+        "url": "https://www.health.com/leg-exercises-11727862"
+      }
+    ]
+  },
+  "legs_stage_3": {
+    "title": "辅助单腿深蹲/跳跃深蹲 + 提踵",
+    "stage": "腿部第三阶段",
+    "summary": "每侧8~10次 × 6组；提踵20次 × 5组，组间休息2分钟",
+    "image": "/static/images/img_19_b995e61ef998.gif",
+    "images": [
+      {
+        "src": "https://media.self.com/photos/5cc3a73707b06c340ae7d00b/master/w_1600%2Cc_limit/3.gif",
+        "alt": "跳跃深蹲动态图"
+      },
+      {
+        "src": "https://media.self.com/photos/5fca6fd153fffe77875a2d17/master/w_1024%2Cc_limit/Erica_Calf-raises%2520%281%29.gif",
+        "alt": "提踵动态图"
+      }
+    ],
+    "actions": [
+      {
+        "name": "热身",
+        "sets": "1轮",
+        "reps": "开合跳60秒，高抬腿60秒，深蹲热身、髋踝绕环",
+        "rest": "按需",
+        "guide": "训练前完成5~8分钟热身。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "辅助单腿深蹲/跳跃深蹲",
+        "sets": "6组",
+        "reps": "每侧8~10次",
+        "rest": "2分钟",
+        "guide": "稳定膝盖，轻柔落地，控制动作。常见错误：落地过重。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "提踵",
+        "sets": "5组",
+        "reps": "20次",
+        "rest": "2分钟",
+        "guide": "踮到最高，顶峰停1秒，缓慢下降。",
+        "images": [],
+        "video_links": []
+      },
+      {
+        "name": "股四头肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "站姿屈膝，脚跟拉向臀部，保持膝盖朝下。",
+        "images": [
+          {
+            "src": "/static/images/img_14_65a0b99ad56c.webp",
+            "alt": "股四头肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "股四头肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%82%A1%E5%9B%9B%E5%A4%B4%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "臀部拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "仰卧四字拉伸，膝盖拉向胸前，放松臀部。",
+        "images": [
+          {
+            "src": "/static/images/img_15_91aaa64141d2.webp",
+            "alt": "臀部拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "臀部拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%87%80%E9%83%A8%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "小腿拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "后脚跟踩地，身体向墙面靠近，拉伸小腿后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_16_0f1a1d4e7649.webp",
+            "alt": "小腿拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "小腿拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E8%85%BF%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      },
+      {
+        "name": "腘绳肌拉伸",
+        "sets": "1轮",
+        "reps": "每侧20~30秒",
+        "rest": "按需",
+        "guide": "坐姿前屈，背部尽量保持延展，拉伸大腿后侧。",
+        "images": [
+          {
+            "src": "/static/images/img_17_aeb1687d9f3e.webp",
+            "alt": "腘绳肌拉伸示范图"
+          }
+        ],
+        "video_links": [
+          {
+            "title": "腘绳肌拉伸视频指导（B站搜索）",
+            "url": "https://search.bilibili.com/all?keyword=%E8%85%98%E7%BB%B3%E8%82%8C%E6%8B%89%E4%BC%B8%E8%A7%86%E9%A2%91%E6%8C%87%E5%AF%BC"
+          }
+        ]
+      }
+    ],
+    "video_links": [
+      {
+        "title": "SELF - Jump Squat to Skater",
+        "url": "https://www.self.com/story/full-body-strength-push"
+      },
+      {
+        "title": "Health - Pistol Squat",
+        "url": "https://www.health.com/pistol-squats-7553114"
+      },
+      {
+        "title": "Real Simple - Calf Raises",
+        "url": "https://www.realsimple.com/calf-raises-8403591"
+      }
+    ]
+  }
+}

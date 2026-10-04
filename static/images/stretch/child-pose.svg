@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <style>.bg{fill:#f5faf7}.line{stroke:#17211b;stroke-width:16;stroke-linecap:round;fill:none}.hint{stroke:#18a058;stroke-width:10;stroke-linecap:round;fill:none;stroke-dasharray:18 16;animation:dash 1.2s linear infinite}.text{font:700 34px "Microsoft YaHei",Arial;fill:#17211b}.sub{font:22px "Microsoft YaHei",Arial;fill:#68746e}@keyframes dash{to{stroke-dashoffset:-68}}</style>
+  <rect class="bg" width="720" height="420" rx="28"/>
+  <text x="40" y="62" class="text">婴儿式</text>
+  <text x="40" y="96" class="sub">臀部坐向脚跟，双手向前延伸</text>
+  <circle cx="245" cy="265" r="28" fill="#17211b"/>
+  <path class="line" d="M280 270c75-45 160-48 260-42"/>
+  <path class="line" d="M300 300c58 30 124 30 192 14"/>
+  <path class="line" d="M330 318c-50 12-92 6-132-22"/>
+  <path class="hint" d="M360 235c62-10 120-12 176-7"/>
+</svg>

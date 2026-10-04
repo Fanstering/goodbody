@@ -1,0 +1,59 @@
+{
+  "program_name": "无器械五分化薄肌训练打卡 v3.0",
+  "start_date": "2026-10-04",
+  "total_days": 56,
+  "cycle": [
+    "shoulder",
+    "abs",
+    "chest",
+    "back",
+    "legs",
+    "rest"
+  ],
+  "workouts": {
+    "shoulder": {
+      "title": "肩部训练",
+      "options": [
+        "shoulder_stage_1",
+        "shoulder_stage_2",
+        "shoulder_stage_3"
+      ]
+    },
+    "abs": {
+      "title": "腹部训练",
+      "options": [
+        "abs_stage_1",
+        "abs_stage_2",
+        "abs_stage_3"
+      ]
+    },
+    "chest": {
+      "title": "胸部训练",
+      "options": [
+        "chest_stage_1",
+        "chest_stage_2",
+        "chest_stage_3"
+      ]
+    },
+    "back": {
+      "title": "背部训练",
+      "options": [
+        "back_stage_1",
+        "back_stage_2",
+        "back_stage_3"
+      ]
+    },
+    "legs": {
+      "title": "腿部训练",
+      "options": [
+        "legs_stage_1",
+        "legs_stage_2",
+        "legs_stage_3"
+      ]
+    },
+    "rest": {
+      "title": "休息日",
+      "options": []
+    }
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <style>.bg{fill:#f5faf7}.line{stroke:#17211b;stroke-width:16;stroke-linecap:round;fill:none}.hint{stroke:#18a058;stroke-width:10;stroke-linecap:round;fill:none;stroke-dasharray:18 16;animation:dash 1.2s linear infinite}.text{font:700 34px "Microsoft YaHei",Arial;fill:#17211b}.sub{font:22px "Microsoft YaHei",Arial;fill:#68746e}@keyframes dash{to{stroke-dashoffset:-68}}</style>
+  <rect class="bg" width="720" height="420" rx="28"/>
+  <text x="40" y="62" class="text">眼镜蛇式</text>
+  <text x="40" y="96" class="sub">俯卧撑起胸口，腹部前侧拉伸</text>
+  <circle cx="465" cy="178" r="28" fill="#17211b"/>
+  <path class="line" d="M438 200c-60 40-128 58-230 58"/>
+  <path class="line" d="M430 225l72 75"/>
+  <path class="line" d="M260 258l-85 55M340 250l-80 72"/>
+  <path class="hint" d="M420 207c-46 58-112 84-210 72"/>
+</svg>

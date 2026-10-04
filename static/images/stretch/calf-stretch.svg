@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <style>.bg{fill:#f5faf7}.line{stroke:#17211b;stroke-width:16;stroke-linecap:round;fill:none}.wall{stroke:#68746e;stroke-width:12}.hint{stroke:#18a058;stroke-width:10;stroke-linecap:round;fill:none;stroke-dasharray:18 16;animation:dash 1.2s linear infinite}.text{font:700 34px "Microsoft YaHei",Arial;fill:#17211b}.sub{font:22px "Microsoft YaHei",Arial;fill:#68746e}@keyframes dash{to{stroke-dashoffset:-68}}</style>
+  <rect class="bg" width="720" height="420" rx="28"/>
+  <text x="40" y="62" class="text">小腿拉伸</text>
+  <text x="40" y="96" class="sub">后脚跟踩地，身体向墙面靠近</text>
+  <path class="wall" d="M555 120v250"/>
+  <circle cx="365" cy="155" r="30" fill="#17211b"/>
+  <path class="line" d="M365 190l70 110"/>
+  <path class="line" d="M390 225l120-10"/>
+  <path class="line" d="M435 300l70 58M435 300l-120 70"/>
+  <path class="hint" d="M318 372c48-18 92-42 128-78"/>
+</svg>

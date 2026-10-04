@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <style>.bg{fill:#f5faf7}.line{stroke:#17211b;stroke-width:16;stroke-linecap:round;fill:none}.hint{stroke:#18a058;stroke-width:10;stroke-linecap:round;fill:none;animation:pulse 1.4s ease-in-out infinite alternate}.text{font:700 34px "Microsoft YaHei",Arial;fill:#17211b}.sub{font:22px "Microsoft YaHei",Arial;fill:#68746e}@keyframes pulse{from{d:path("M230 240c95-58 190-58 285 0")}to{d:path("M230 250c95 58 190 58 285 0")}}</style>
+  <rect class="bg" width="720" height="420" rx="28"/>
+  <text x="40" y="62" class="text">猫牛式</text>
+  <text x="40" y="96" class="sub">脊柱拱起与下沉交替</text>
+  <circle cx="540" cy="220" r="28" fill="#17211b"/>
+  <path class="line" d="M230 250h285"/>
+  <path class="line" d="M260 250v95M485 250v95"/>
+  <path class="line" d="M250 345h-55M500 345h55"/>
+  <path class="hint" d="M230 240c95-58 190-58 285 0"/>
+</svg>

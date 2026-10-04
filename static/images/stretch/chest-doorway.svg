@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <style>.bg{fill:#f5faf7}.line{stroke:#17211b;stroke-width:16;stroke-linecap:round;fill:none}.door{stroke:#68746e;stroke-width:14;fill:none}.hint{stroke:#18a058;stroke-width:10;stroke-linecap:round;fill:none;stroke-dasharray:18 16;animation:dash 1.2s linear infinite}.text{font:700 34px "Microsoft YaHei",Arial;fill:#17211b}.sub{font:22px "Microsoft YaHei",Arial;fill:#68746e}@keyframes dash{to{stroke-dashoffset:-68}}</style>
+  <rect class="bg" width="720" height="420" rx="28"/>
+  <text x="40" y="62" class="text">门框拉胸</text>
+  <text x="40" y="96" class="sub">前臂扶门框，身体缓慢向前</text>
+  <path class="door" d="M210 350V120h300v230"/>
+  <circle cx="360" cy="170" r="30" fill="#17211b"/>
+  <path class="line" d="M360 205v95"/>
+  <path class="line" d="M360 225l-135 10M360 225l135 10"/>
+  <path class="line" d="M360 300l-55 60M360 300l55 60"/>
+  <path class="hint" d="M338 214c34 18 60 48 75 86"/>
+</svg>
